@@ -1,0 +1,235 @@
+newmtl m163166641
+Ns 20
+Ka 0.0000 0.0000 0.0039
+Kd 0.9688 0.9688 0.9688
+Ks 0.0000 0.0000 0.0039
+d 1
+
+newmtl m154626731
+Ns 20
+Ka 0.0000 0.0000 0.0039
+Kd 0.9180 0.9414 0.0664
+Ks 0.0000 0.0000 0.0039
+d 1
+
+newmtl m88162621
+Ns 20
+Ka 0.0000 0.0000 0.0039
+Kd 0.5234 0.5234 0.5234
+Ks 0.0000 0.0000 0.0039
+d 1
+
+newmtl m01
+Ns 20
+Ka 0.0000 0.0000 0.0039
+Kd 0.0000 0.0000 0.0000
+Ks 0.0000 0.0000 0.0039
+d 1
+
+newmtl m137507371
+Ns 20
+Ka 0.0000 0.0000 0.0039
+Kd 0.8164 0.8164 0.8164
+Ks 0.0000 0.0000 0.0039
+d 1
+
+newmtl mbtexture0
+map_Kd mbtexture0.png
+d 1
+
+newmtl mbtexture1
+map_Kd mbtexture1.png
+d 1
+
+newmtl mbtexture2
+map_Kd mbtexture2.png
+d 1
+
+newmtl mbtexture3
+map_Kd mbtexture3.png
+d 1
+
+newmtl mbtexture4
+map_Kd mbtexture4.png
+d 1
+
+newmtl mbtexture5
+map_Kd mbtexture5.png
+d 1
+
+newmtl mbtexture6
+map_Kd mbtexture6.png
+d 1
+
+newmtl mbtexture7
+map_Kd mbtexture7.png
+d 1
+
+newmtl mbtexture8
+map_Kd mbtexture8.png
+d 1
+
+newmtl mbtexture9
+map_Kd mbtexture9.png
+d 1
+
+newmtl m162632081
+Ns 20
+Ka 0.0000 0.0000 0.0039
+Kd 0.9688 0.1563 0.1563
+Ks 0.0000 0.0000 0.0039
+d 1
+
+newmtl mbtexture10
+map_Kd mbtexture10.png
+d 1
+
+newmtl m109216381
+Ns 20
+Ka 0.0000 0.0000 0.0039
+Kd 0.6484 0.6484 0.6484
+Ks 0.0000 0.0000 0.0039
+d 1
+
+newmtl mbtexture11
+map_Kd mbtexture11.png
+d 1
+
+newmtl mbtexture12
+map_Kd mbtexture12.png
+d 1
+
+newmtl mbtexture13
+map_Kd mbtexture13.png
+d 1
+
+newmtl m26148121
+Ns 20
+Ka 0.0000 0.0000 0.0039
+Kd 0.1523 0.8984 0.1094
+Ks 0.0000 0.0000 0.0039
+d 1
+
+newmtl mbtexture14
+map_Kd mbtexture14.png
+d 1
+
+newmtl mbtexture15
+map_Kd mbtexture15.png
+d 1
+
+newmtl mbtexture16
+map_Kd mbtexture16.png
+d 1
+
+newmtl mbtexture17
+map_Kd mbtexture17.png
+d 1
+
+newmtl mbtexture18
+map_Kd mbtexture18.png
+d 1
+
+newmtl mbtexture19
+map_Kd mbtexture19.png
+d 1
+
+newmtl mbtexture20
+map_Kd mbtexture20.png
+d 1
+
+newmtl mbtexture21
+map_Kd mbtexture21.png
+d 1
+
+newmtl mbtexture22
+map_Kd mbtexture22.png
+d 1
+
+newmtl mbtexture23
+map_Kd mbtexture23.png
+d 1
+
+newmtl mbtexture24
+map_Kd mbtexture24.png
+d 1
+
+newmtl mbtexture25
+map_Kd mbtexture25.png
+d 1
+
+newmtl mbtexture26
+map_Kd mbtexture26.png
+d 1
+
+newmtl mbtexture27
+map_Kd mbtexture27.png
+d 1
+
+newmtl mbtexture28
+map_Kd mbtexture28.png
+d 1
+
+newmtl mbtexture29
+map_Kd mbtexture29.png
+d 1
+
+newmtl mbtexture30
+map_Kd mbtexture30.png
+d 1
+
+newmtl mbtexture31
+map_Kd mbtexture31.png
+d 1
+
+newmtl mbtexture32
+map_Kd mbtexture32.png
+d 1
+
+newmtl mbtexture33
+map_Kd mbtexture33.png
+d 1
+
+newmtl mbtexture34
+map_Kd mbtexture34.png
+d 1
+
+newmtl mbtexture35
+map_Kd mbtexture35.png
+d 1
+
+newmtl mbtexture36
+map_Kd mbtexture36.png
+d 1
+
+newmtl mbtexture37
+map_Kd mbtexture37.png
+d 1
+
+newmtl mbtexture38
+map_Kd mbtexture38.png
+d 1
+
+newmtl mbtexture39
+map_Kd mbtexture39.png
+d 1
+
+newmtl mbtexture40
+map_Kd mbtexture40.png
+d 1
+
+newmtl mbtexture41
+map_Kd mbtexture41.png
+d 1
+
+newmtl mbtexture42
+map_Kd mbtexture42.png
+d 1
+
+newmtl m11
+Ns 20
+Ka 0.0000 0.0000 0.0039
+Kd 0.0000 0.0000 0.0039
+Ks 0.0000 0.0000 0.0039
+d 1
+
