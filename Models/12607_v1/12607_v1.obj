@@ -1,18 +1,5 @@
 mtllib 12607_v1.mtl
 
-g worldCube0
-usemtl mcad8b74d2c035c6e3e09bbf407024beb
-o worldCube0
-# Number of Vertices: 0
-
-# Number of Normals: 0
-
-# Number of Texture Vertices: 0
-
-# Number of Polygons: 0
-#composition 4E070876-77AD-0F0D-4210-34C826FD20DB 0.0000 0.0000 0.0000
-#articleUsage FAC97284-289C-729F-115D-34CEDDB07730 0.0000 0.0000 -2500.0000 0.0000 0.0000 0.0000
-
 g cn35
 usemtl m163824571
 o cn35
